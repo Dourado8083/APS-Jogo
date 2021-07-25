@@ -1,0 +1,19 @@
+
+mario-and-luigi.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mario
+  rotate: false
+  xy: 1, 1
+  size: 392, 784
+  orig: 392, 784
+  offset: 0, 0
+  index: -1
+luigi
+  rotate: false
+  xy: 395, 359
+  size: 448, 426
+  orig: 448, 426
+  offset: 0, 0
+  index: -1

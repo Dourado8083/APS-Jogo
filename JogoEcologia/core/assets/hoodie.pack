@@ -1,0 +1,26 @@
+
+hoodie.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hoodierun
+  rotate: false
+  xy: 1, 71
+  size: 34, 136
+  orig: 34, 136
+  offset: 0, 0
+  index: -1
+hoodie
+  rotate: false
+  xy: 1, 1
+  size: 34, 68
+  orig: 34, 68
+  offset: 0, 0
+  index: -1
+hoodiejump
+  rotate: false
+  xy: 37, 139
+  size: 34, 68
+  orig: 34, 68
+  offset: 0, 0
+  index: -1
